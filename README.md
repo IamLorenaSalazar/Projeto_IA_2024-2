@@ -1,7 +1,25 @@
-# Projeto da Disciplina Projeto Integrador IV - FAESA 2024/2
-# Aplicações de Inteligência Artificial
+# Mentoria IA
 
-Objetivo:
+## Visão Geral
 
-Desenvolver a capacidade dos alunos em conceber, projetar e implementar soluções inovadoras utilizando tecnologias de inteligência artificial, com foco em aplicações reais nas áreas de cibersegurança, saúde, educação e cidades inteligentes.
+O projeto **Mentoria IA** tem como objetivo desenvolver uma **inteligência artificial educacional** para auxiliar estudantes no processo de estudo e aprendizado. A IA irá responder perguntas e questionar as respostas dos alunos para estimular o **pensamento crítico**, além de fornecer **feedback detalhado** sobre as respostas, ajudando a melhorar o entendimento e promover a autonomia no aprendizado.
 
+## Equipe do Projeto
+- **Isabelly Lopes dos Santos**
+- **João Henrique Schultz**
+- **Kézia Barbosa da Silva**
+- **Lorena Evangelista Salazar**
+
+## Objetivo
+
+Criar uma ferramenta baseada em IA que suporte o desenvolvimento do **pensamento crítico** dos estudantes, oferecendo feedback imediato e personalizado, facilitando a autoavaliação e promovendo um aprendizado mais profundo e eficaz.
+
+## Tecnologias Utilizadas
+- APIs de **Machine Learning** e **Processamento de Linguagem Natural**.
+- Controle de versão com **GitHub**.
+- **YouTube** para apresentação de protótipos e demonstrações do produto.
+
+## Entregas
+1. **Documento de Apresentação do Projeto** (06/09/2024)
+2. **Protótipo da Aplicação** (25/10/2024)
+3. **Produto Final (MVP)** (29/11/2024)
