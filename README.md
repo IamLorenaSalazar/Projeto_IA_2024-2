@@ -6,7 +6,6 @@ O projeto **Mentoria IA** tem como objetivo desenvolver uma **inteligência arti
 
 ## Equipe do Projeto
 - **Isabelly Lopes dos Santos**
-- @Isabellylsantos
 - **João Henrique Schultz**
 - **Kézia Barbosa da Silva**
 - **Lorena Evangelista Salazar**
