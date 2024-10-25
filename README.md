@@ -1,3 +1,5 @@
+![Captura de tela 2024-10-25 144519](https://github.com/user-attachments/assets/f23e59e5-0471-4010-a5a6-74f97a68421f)
+
 # Aprenda com o Tio Chan
 
 ## Visão Geral
