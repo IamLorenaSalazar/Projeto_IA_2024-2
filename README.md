@@ -1,8 +1,8 @@
-# Mentoria IA
+# Aprenda com o Tio Chan
 
 ## Visão Geral
 
-O projeto **Mentoria IA** tem como objetivo desenvolver uma **inteligência artificial educacional** para auxiliar estudantes no processo de estudo e aprendizado. A IA irá responder perguntas e questionar as respostas dos alunos para estimular o **pensamento crítico**, além de fornecer **feedback detalhado** sobre as respostas, ajudando a melhorar o entendimento e promover a autonomia no aprendizado.
+O projeto **Aprenda com o Tio Chan** tem como objetivo desenvolver uma **inteligência artificial educacional** para auxiliar estudantes no processo de estudo e aprendizado. A IA irá responder perguntas e questionar as respostas dos alunos para estimular o **pensamento crítico**, além de fornecer **feedback detalhado** sobre as respostas, ajudando a melhorar o entendimento e promover a autonomia no aprendizado.
 
 ## Equipe do Projeto
 - **Isabelly Lopes dos Santos**
