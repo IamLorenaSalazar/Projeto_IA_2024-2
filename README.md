@@ -1,7 +1,7 @@
-<img src="https://github.com/user-attachments/assets/f23e59e5-0471-4010-a5a6-74f97a68421f" width="300"/>
-
 
 # Aprenda com o Tio Chan
+
+<img src="https://github.com/user-attachments/assets/f23e59e5-0471-4010-a5a6-74f97a68421f" width="400"/>
 
 ## Visão Geral
 
